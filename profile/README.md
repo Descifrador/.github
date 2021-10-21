@@ -37,7 +37,7 @@ This organization contains projects created in various semesters during our B.te
 | 185092 | [Anand Aggarwal](https://github.com/anand9git) |
 | 185067 | [Avinal Kumar](https://github.com/avinal) |
 | 185087 | [Harsimranjeet Saini](https://github.com) |
-| 185087 | [Sairaj Naidu](https://github.com/Sairajnaidu5525) |
+| 185052 | [Sairaj Naidu](https://github.com/Sairajnaidu5525) |
 
 
 ### Project
